@@ -1,1 +1,2 @@
-# HMWM3
+Diego Said
+Tarea Modulo3
